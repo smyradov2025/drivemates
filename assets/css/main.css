@@ -3895,5 +3895,9 @@ video {
   height: 100%;
   object-fit: cover;
 }
+/* Плавные переходы при клике */
+html {
+  scroll-behavior: smooth;
+}
 
 	}
