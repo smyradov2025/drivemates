@@ -92,7 +92,7 @@ footer {
     padding-bottom: 12px;
 }
 
-#intro .btn,
+#home .btn,
 #contact .btn {
     background: transparent;
     border: 2px solid #ffffff;
@@ -108,7 +108,7 @@ footer {
     transition: all 0.4s ease-in-out;
 }
 
-#intro .btn-danger,
+#home .btn-danger,
 #contact .btn-danger {
     background: #f2545f;
     border-color: transparent;
@@ -118,7 +118,7 @@ footer {
   border-radius: 100px;
 }
 
-#intro .btn-danger:hover {
+#home .btn-danger:hover {
   background: transparent;
   border-color: #ffffff;
   color: #ffffff;
@@ -128,7 +128,7 @@ footer {
   background: #222;
 }
 
-#intro .btn-default:hover {
+#home .btn-default:hover {
     background: #ffffff;
     color: #333333;
     border-color: transparent;
@@ -259,9 +259,9 @@ footer {
 
 
 /*---------------------------------------
-    Intro section              
+    Home section              
 -----------------------------------------*/
-#intro {
+#home {
     background: url('../images/intro-bg.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -279,7 +279,7 @@ footer {
     text-align: center;
 }
 
-#intro h3 {
+#home h3 {
   letter-spacing: 2px;
 }
 
@@ -685,7 +685,7 @@ footer {
 	line-height: 20px;
   }
 
-  #intro { height: 65vh; }
+  #home { height: 65vh; }
 
   #video iframe {
     margin-top: 42px;
@@ -730,7 +730,7 @@ footer {
 
 @media (max-width: 760px) {
 
-  #intro {
+  #home {
     height: 100vh;
   }
 
