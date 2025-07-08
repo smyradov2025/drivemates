@@ -72,14 +72,14 @@ a {
 #detail, #video,
 #testimonials, 
 #clients,
-#sponsors, 
+#about, 
 #contact, footer {
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
 
 #detail,
-#testimonials, #sponsors,
+#testimonials, #about,
 footer {
   text-align: center;
 }
@@ -557,9 +557,9 @@ footer {
 
 
 /*---------------------------------------
-   Sponsors section              
+   About section              
 -----------------------------------------*/
-#sponsors img {
+#about img {
   margin-top: 18px;
 }
 
@@ -734,7 +734,7 @@ footer {
     padding-bottom: 32px;
   }
 
-  #sponsors img {
+  #about img {
     padding-top: 22px;
   }
 
