@@ -71,7 +71,7 @@ a {
 
 #detail, #video,
 #testimonials, 
-#program,
+#clients,
 #sponsors, 
 #contact, footer {
     padding-top: 10rem;
@@ -358,28 +358,28 @@ footer {
 
 
 /*---------------------------------------
-   Program section              
+   clients section              
 -----------------------------------------*/
-#program h4 {
+#clients h4 {
     color: #808080;
     font-size: 12px;
 }
 
-#program h3 {
+#clients h3 {
   margin-top: 16px;
 }
 
-#program .program-divider {
+#clients .program-divider {
     border: 1px solid #f9f9f9;
     margin-top: 32px;
     margin-bottom: 42px;
 }
 
-#program span {
+#clients span {
     padding-right: 12px;
 }
 
-#program img {
+#clients img {
   border-radius: 50%;
 }
 
@@ -714,7 +714,7 @@ footer {
     font-size: 13px;
   }
 
-  #program img {
+  #clients img {
     padding-bottom: 32px;
   }
 
