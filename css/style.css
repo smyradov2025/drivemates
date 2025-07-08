@@ -64,7 +64,7 @@ a {
 }
 
 #overview,
-#register {
+#owner-operators {
   padding-top: 14rem;
   padding-bottom: 14rem;
 }
@@ -86,7 +86,7 @@ footer {
 
 #overview h3,
 #detail h3, #video h3,
-#register h3,
+#owner-operators h3,
 #venue h3,
 #contact h3 {
     padding-bottom: 12px;
@@ -419,7 +419,7 @@ footer {
 /*---------------------------------------
     Regsiter section              
 -----------------------------------------*/
-#register {
+#owner-operators {
     background: url('../images/register-bg.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
@@ -427,7 +427,7 @@ footer {
     color: #ffffff;
 }
 
-#register .form-control {
+#owner-operators .form-control {
   background: transparent;
   border: 2px solid #ffffff;
   border-radius: 0px;
@@ -435,11 +435,11 @@ footer {
   margin-bottom: 16px;
 }
 
-#register input {
+#owner-operators input {
   height: 45px;
 }
 
-#register input[type="submit"] {
+#owner-operators input[type="submit"] {
   background: #f2545f;
   border-radius: 100px;
   border: none;
@@ -450,7 +450,7 @@ footer {
   transition: all 0.4s ease-in-out;
 }
 
-#register input[type="submit"]:hover {
+#owner-operators input[type="submit"]:hover {
   background: #ffffff;
   color: #222;
 }
@@ -706,7 +706,7 @@ footer {
 
   #overview img,
   #detail .col-md-4,
-  #register form {
+  #owner-operators form {
     padding-top: 32px;
   }
 
