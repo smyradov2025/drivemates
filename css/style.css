@@ -87,7 +87,7 @@ footer {
 #overview h3,
 #detail h3, #video h3,
 #owner-operators h3,
-#venue h3,
+#drivers h3,
 #contact h3 {
     padding-bottom: 12px;
 }
@@ -523,9 +523,9 @@ footer {
 
 
 /*---------------------------------------
-   Venue section              
+   drivers section              
 -----------------------------------------*/
-#venue {
+#drivers {
     background: url('../images/venue-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
@@ -533,7 +533,7 @@ footer {
     padding-bottom: 7rem;
 }
 
-#venue p {
+#drivers p {
   padding-top: 12px;
   padding-bottom: 18px;
 }
