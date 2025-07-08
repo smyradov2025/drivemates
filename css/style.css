@@ -538,6 +538,22 @@ footer {
   padding-bottom: 18px;
 }
 
+/* Make driver form transparent like in #register */
+#drivers form .form-control {
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	margin-bottom: 16px;
+}
+
+#drivers form .form-control::placeholder {
+	color: #eee;
+	opacity: 1;
+}
+
+#drivers button {
+	border-radius: 30px;
+}
 
 
 /*---------------------------------------
